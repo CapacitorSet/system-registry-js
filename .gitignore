@@ -1,0 +1,6 @@
+node_modules
+package-lock.json
+src/registry.reg
+src/registry.utf8.reg
+src/registry.json
+src/registry.js

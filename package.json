@@ -1,0 +1,20 @@
+{
+  "name": "system-registry",
+  "version": "1.0.0",
+  "description": "A JavaScript dump of the system registry.",
+  "main": "dist/registry.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CapacitorSet/system-registry-js.git"
+  },
+  "keywords": [
+    "windows",
+    "registry"
+  ],
+  "author": "Capacitor Set",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/CapacitorSet/system-registry-js/issues"
+  },
+  "homepage": "https://github.com/CapacitorSet/system-registry-js#readme"
+}
